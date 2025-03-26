@@ -7,7 +7,7 @@ export const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-xl font-semibold mb-4">Tamil Nadu Entrepreneur Guide</h3>
+            <h3 className="text-xl font-semibold mb-4">Yours Friendly</h3>
             <p className="text-gray-300">
               A comprehensive resource for aspiring entrepreneurs in Tamil Nadu,
               especially designed for Naan Mudhalvan students from government schools and colleges.
@@ -41,7 +41,7 @@ export const Footer = () => {
         </div>
         
         <div className="border-t border-blue-700 mt-8 pt-6 text-center text-gray-300">
-          <p>&copy; {new Date().getFullYear()} Tamil Nadu Entrepreneur Guide. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Yours Friendly. All rights reserved.</p>
         </div>
       </div>
     </footer>

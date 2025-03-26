@@ -1,4 +1,4 @@
-# Tamil Nadu Entrepreneur Guide
+# Yours Friendly
 
 A comprehensive guide for aspiring entrepreneurs in Tamil Nadu, especially designed for Naan Mudhalvan students from government schools and colleges.
 
