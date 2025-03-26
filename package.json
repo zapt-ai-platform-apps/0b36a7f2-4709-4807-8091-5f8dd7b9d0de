@@ -1,7 +1,7 @@
 {
-    "name": "reactjs-vite-tailwind-vercel",
+    "name": "tamil-nadu-entrepreneur-guide",
     "version": "1.0.0",
-    "description": "ReactJS app with Vite, Tailwind",
+    "description": "A comprehensive guide for entrepreneurs in Tamil Nadu",
     "type": "module",
     "scripts": {
         "dev": "vite",
@@ -12,7 +12,11 @@
     "dependencies": {
         "@sentry/browser": "^8.41.0",
         "react": "^18.2.0",
-        "react-dom": "^18.2.0"
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^6.22.3",
+        "react-icons": "^5.0.1",
+        "framer-motion": "^11.1.8",
+        "react-intersection-observer": "^9.8.0"
     },
     "devDependencies": {
         "@vitejs/plugin-react": "^4.3.4",
@@ -20,6 +24,7 @@
         "postcss": "^8.4.47",
         "tailwindcss": "^3.4.13",
         "vite": "^5.4.7",
-        "@sentry/vite-plugin": "^2.23.0"
+        "@sentry/vite-plugin": "^2.23.0",
+        "vitest": "^1.4.0"
     }
 }
