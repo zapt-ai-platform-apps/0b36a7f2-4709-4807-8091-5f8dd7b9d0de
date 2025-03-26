@@ -94,11 +94,11 @@ export const HomePage = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.5, delay: 0.2 }}
         >
-          <img src="https://images.unsplash.com/photo-1497681883844-82b4f0a359a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjQ4Nzh8MHwxfHNlYXJjaHwyfHxEaXZlcnNlJTIwZ3JvdXAlMjBvZiUyMHlvdW5nJTIwVGFtaWwlMjBlbnRyZXByZW5ldXJzJTIwd29ya2luZyUyMHRvZ2V0aGVyJTIwaW4lMjBhJTIwbW9kZXJuJTIwd29ya3NwYWNlJTIwaW4lMjBDaGVubmFpJTIwd2l0aCUyMFRhbWlsJTIwY3VsdHVyYWwlMjBlbGVtZW50cyUyMHZpc2libGV8ZW58MHx8fHwxNzQyOTc3MjQ2fDA&ixlib=rb-4.0.3&q=80&w=1080" 
+          <img src="https://images.unsplash.com/photo-1651246503617-6c74e01c9fc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjQ4Nzh8MHwxfHNlYXJjaHw2fHxHcm91cCUyMG9mJTIwZW50aHVzaWFzdGljJTIwVGFtaWwlMjBzdHVkZW50cyUyMGluJTIwc2Nob29sJTIwdW5pZm9ybXMlMjBjaGVlcmluZyUyMGFuZCUyMGNlbGVicmF0aW5nJTIwd2l0aCUyMHJhaXNlZCUyMGFybXMlMjBpbiUyMGElMjBydXJhbCUyMFRhbWlsJTIwTmFkdSUyMHZpbGxhZ2UlMjBzZXR0aW5nJTIwd2l0aCUyMGdyZWVuJTIwZmllbGRzJTJDJTIwc21hbGwlMjBob21lcyUyQyUyMGFuZCUyMHBhbG0lMjB0cmVlcyUyMGluJTIwdGhlJTIwYmFja2dyb3VuZCUyQyUyMHNob3dpbmclMjB0aGVpciUyMGFtYml0aW9uJTIwZm9yJTIwZ3Jvd3RoJTIwYW5kJTIwZGV2ZWxvcG1lbnR8ZW58MHx8fHwxNzQyOTgxMDU0fDA&ixlib=rb-4.0.3&q=80&w=1080" 
              
-            alt="Young entrepreneurs in Tamil Nadu" 
+            alt="Tamil students cheering in rural Tamil Nadu" 
             className="w-full h-64 md:h-96 object-cover rounded-xl shadow-md" 
-            data-image-request="Diverse group of young Tamil entrepreneurs working together in a modern workspace in Chennai with Tamil cultural elements visible"
+            data-image-request="Group of enthusiastic Tamil students in school uniforms cheering and celebrating with raised arms in a rural Tamil Nadu village setting with green fields, small homes, and palm trees in the background, showing their ambition for growth and development"
           />
         </motion.div>
       </section>
